@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AurebusTriggers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E0A3A3-0BC6-4B10-8F48-B2E57EE19B7A}|WebApi\\WebApi.csproj|d:\\aurebustriggers\\webapi\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E0A3A3-0BC6-4B10-8F48-B2E57EE19B7A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF35142-BE2D-457D-8142-BB97979CF8FB}|ServiceFunctionApp\\ServiceFunctionApp.csproj|d:\\aurebustriggers\\servicefunctionapp\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF35142-BE2D-457D-8142-BB97979CF8FB}|ServiceFunctionApp\\ServiceFunctionApp.csproj|solutionrelative:servicefunctionapp\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF35142-BE2D-457D-8142-BB97979CF8FB}|ServiceFunctionApp\\ServiceFunctionApp.csproj|d:\\aurebustriggers\\servicefunctionapp\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AF35142-BE2D-457D-8142-BB97979CF8FB}|ServiceFunctionApp\\ServiceFunctionApp.csproj|solutionrelative:servicefunctionapp\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E0A3A3-0BC6-4B10-8F48-B2E57EE19B7A}|WebApi\\WebApi.csproj|d:\\aurebustriggers\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9E0A3A3-0BC6-4B10-8F48-B2E57EE19B7A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "D:\\AurebusTriggers\\ServiceFunctionApp\\local.settings.json",
+              "RelativeDocumentMoniker": "ServiceFunctionApp\\local.settings.json",
+              "ToolTip": "D:\\AurebusTriggers\\ServiceFunctionApp\\local.settings.json",
+              "RelativeToolTip": "ServiceFunctionApp\\local.settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T18:40:51.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "D:\\AurebusTriggers\\ServiceFunctionApp\\Function1.cs",
+              "RelativeDocumentMoniker": "ServiceFunctionApp\\Function1.cs",
+              "ToolTip": "D:\\AurebusTriggers\\ServiceFunctionApp\\Function1.cs",
+              "RelativeToolTip": "ServiceFunctionApp\\Function1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:38:46.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "D:\\AurebusTriggers\\WebApi\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\MessageController.cs",
+              "ToolTip": "D:\\AurebusTriggers\\WebApi\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:24:35.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AurebusTriggers\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "D:\\AurebusTriggers\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T18:22:55.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

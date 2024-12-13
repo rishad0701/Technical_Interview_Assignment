@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ServiceFunctionApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7053",
+      "launchBrowser": false
+    }
+  }
+}

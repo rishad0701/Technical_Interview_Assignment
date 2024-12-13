@@ -1,0 +1,19 @@
+--> First we will create the Service bus namespace 
+--> After creation we will create the queue inside that service bus namespace
+--> After that inside shared access policies and inside rootmanagesharedaccesskey we will have connection string
+--> Now create web api project and inside appsetting.json file we will configure service bus connection tring and queue as below
+{
+  "AzureServiceBus": {
+    "ConnectionString": "<your_service_bus_connection_string>",
+    "QueueName": "myqueue"
+  }
+}
+
+--> Now inside controller we can write the api to send message to azure app service bus queue using Azureservicebus connectionstring and queue name.
+
+
+--> Now we should create the azure app function project using with service bus queue trigger template as per our requirement and we can define the quename and connectionstring 
+    as well while creating the project and we can define that connection string in local.setting.json file. using this string only we can connect with azure bus queue 
+    so that whenever we get data into azure bus the fuction get triggered.
+--> So now function will get created if we want we can add other functions as well.
+
